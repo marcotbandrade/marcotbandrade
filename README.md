@@ -1,15 +1,11 @@
 ### Oi, eu sou ~Goku~ Marco! 👋
 
-<br><br>
+<br>
 
 <div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td><img height="100" src="https://i.kym-cdn.com/photos/images/newsfeed/000/923/084/055"/></td>
-      <td>Em construção...</td>
-      <td><img height="100" src="https://i.kym-cdn.com/photos/images/newsfeed/000/923/084/055"/></td>
-    </tr>
-  </table>
+      <img height="50" src="https://i.kym-cdn.com/photos/images/newsfeed/000/923/084/055"/>
+      Em construção...
+      <img height="50" src="https://i.kym-cdn.com/photos/images/newsfeed/000/923/084/055"/>
 </div>
 
 <br><br>
