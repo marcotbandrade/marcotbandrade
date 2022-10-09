@@ -1,5 +1,19 @@
 ### Oi, eu sou ~Goku~ Marco! 👋
 
+<br><br>
+
+<div align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td><img height="100" src="https://i.kym-cdn.com/photos/images/newsfeed/000/923/084/055"/></td>
+      <td>Em construção...</td>
+      <td><img height="100" src="https://i.kym-cdn.com/photos/images/newsfeed/000/923/084/055"/></td>
+    </tr>
+  </table>
+</div>
+
+<br><br>
+
 <div align="center">
   <a href="https://github.com/marcotbandrade">
   
